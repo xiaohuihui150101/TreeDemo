@@ -1,0 +1,6 @@
+[{"code":"11","name":"航站区","children":[{"code":"1101","name":"航站A区","children":[{"code":"110101","name":"航站A1区"}]}]},
+    {"code":"12","name":"公共区","children":[{"code":"1201","name":"公共A区","children":[{"code":"120101","name":"公共A1区"},{"code":"120102","name":"公共A2区"}]}]},
+    {"code":"13","name":"货运区","children":[{"code":"1301","name":"货运A区","children":[{"code":"130102","name":"货运A1区"},{"code":"130104","name":"货运A2区"}]}]},
+{"code":"65","name":"物流区","children":[{"code":"6590","name":"物流A区","children":[]}, {"code":"6591","name":"物流B区","children":[{"code":"659101","name":"物流B1区"},{"code":"659102","name":"物流B2区"}]}]
+    
+}]
